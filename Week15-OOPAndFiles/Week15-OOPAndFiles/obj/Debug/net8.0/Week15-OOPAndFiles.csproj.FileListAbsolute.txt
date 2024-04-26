@@ -1,0 +1,14 @@
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 13\Week15-OOPAndFiles\Week15-OOPAndFiles\obj\Debug\net8.0\Week15-OOPAndFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 13\Week15-OOPAndFiles\Week15-OOPAndFiles\obj\Debug\net8.0\Week15-OOPAndFiles.AssemblyInfoInputs.cache
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 13\Week15-OOPAndFiles\Week15-OOPAndFiles\obj\Debug\net8.0\Week15-OOPAndFiles.AssemblyInfo.cs
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 13\Week15-OOPAndFiles\Week15-OOPAndFiles\obj\Debug\net8.0\Week15-OOPAndFiles.csproj.CoreCompileInputs.cache
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 13\Week15-OOPAndFiles\Week15-OOPAndFiles\bin\Debug\net8.0\Week15-OOPAndFiles.exe
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 13\Week15-OOPAndFiles\Week15-OOPAndFiles\bin\Debug\net8.0\Week15-OOPAndFiles.deps.json
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 13\Week15-OOPAndFiles\Week15-OOPAndFiles\bin\Debug\net8.0\Week15-OOPAndFiles.runtimeconfig.json
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 13\Week15-OOPAndFiles\Week15-OOPAndFiles\bin\Debug\net8.0\Week15-OOPAndFiles.dll
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 13\Week15-OOPAndFiles\Week15-OOPAndFiles\bin\Debug\net8.0\Week15-OOPAndFiles.pdb
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 13\Week15-OOPAndFiles\Week15-OOPAndFiles\obj\Debug\net8.0\Week15-OOPAndFiles.dll
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 13\Week15-OOPAndFiles\Week15-OOPAndFiles\obj\Debug\net8.0\refint\Week15-OOPAndFiles.dll
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 13\Week15-OOPAndFiles\Week15-OOPAndFiles\obj\Debug\net8.0\Week15-OOPAndFiles.pdb
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 13\Week15-OOPAndFiles\Week15-OOPAndFiles\obj\Debug\net8.0\Week15-OOPAndFiles.genruntimeconfig.cache
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 13\Week15-OOPAndFiles\Week15-OOPAndFiles\obj\Debug\net8.0\ref\Week15-OOPAndFiles.dll
